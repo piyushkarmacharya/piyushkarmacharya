@@ -1,11 +1,23 @@
-## Hi there 👋
+# Hi, I'm Piyush Karmacharya 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Student passionate about mobile app development with Flutter.
 
+## About Me
+
+- 🌱 Currently learning and improving Flutter skills.
+- 🎯 Aiming to become proficient in full-stack development.
+
+## Skills
+
+- **Languages & Frameworks:** Flutter, Dart, Laravel, MySQL
+- **Tools & Technologies:** Android Studio, XAMPP, MySQL, Postman
+- **Other:** Git, GitHub
+
+## Contact
+
+- 📫 [piyushkarmacharya65@gmail.com](mailto:piyushkarmacharya65@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-karmacharya/)
+
+---
+
+Feel free to explore my repositories and reach out for collaboration!
